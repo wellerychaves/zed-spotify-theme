@@ -1,0 +1,7 @@
+id = "spotify-theme"
+name = "Spotify Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["wellery"]
+description = "Spotify Theme"
+repository = "https://github.com/wellerychaves/zed-spotify-theme"
